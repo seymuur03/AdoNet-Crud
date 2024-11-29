@@ -20,3 +20,4 @@ C:\Users\Hp\OneDrive\Desktop\Code Academy\AdoNet-Tasks\AdoNet-30.11\AdoNet_30.11
 C:\Users\Hp\OneDrive\Desktop\Code Academy\AdoNet-Tasks\AdoNet-30.11\AdoNet_30.11\C_R_U_D\obj\Debug\net8.0\C_R_U_D.pdb
 C:\Users\Hp\OneDrive\Desktop\Code Academy\AdoNet-Tasks\AdoNet-30.11\AdoNet_30.11\C_R_U_D\obj\Debug\net8.0\C_R_U_D.genruntimeconfig.cache
 C:\Users\Hp\OneDrive\Desktop\Code Academy\AdoNet-Tasks\AdoNet-30.11\AdoNet_30.11\C_R_U_D\obj\Debug\net8.0\ref\C_R_U_D.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AdoNet-Tasks\AdoNet-30.11\AdoNet_30.11\C_R_U_D\obj\Debug\net8.0\C_R_U_D.sourcelink.json

@@ -73,10 +73,10 @@ namespace C_R_U_D
             OneToOneRelationServices relation1 = new OneToOneRelationServices();
             #region OneToOne releation : Student and StudentDetail :
             //relation1.GetAllStudentWithDetails();
-            //relation1.Update(20,30);
+            relation1.Update(age:20,x:30);       //Search eden zaman tapdimki Viewlarda update ederken islemeye biler 
+            //relation1.Delete(20);                // Eynile bunuda etmek olmur bir view olmasi sebebi ile
 
-            //studentService.Update(20,30);
-            studentDetailService.Update(20, 30);
+
             #endregion
         }
     }

@@ -45,5 +45,16 @@ namespace C_R_U_D.Services
             sqlCommand.Parameters.AddWithValue("@x", x);
             sqlCommand.ExecuteNonQuery();
         }
+
+        public void Delete(int x)
+        {
+            string connectinStr = "Server = DESKTOP-Q4CUAVA\\SQLEXPRESS ; Database = HomeWork_AdoNet ; Trusted_Connection = true ;";
+            using SqlConnection sqlConnection = new SqlConnection(connectinStr);
+            sqlConnection.Open();
+            string query = "DELETE FROM StudentWithDetails WHERE Age > @x";
+            SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+            sqlCommand.Parameters.AddWithValue("@x", x);
+            sqlCommand.ExecuteNonQuery();
+        }
     }
 }
